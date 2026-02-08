@@ -1,4 +1,6 @@
 # Rock Paper Scissors – Score Keeper 🎮
+🔗 **Live Repo:** https://github.com/yourusername/rps-score
+
 
 A simple Rock Paper Scissors score keeper web app built using **HTML, CSS, JavaScript** and **Bulma CSS**.
 
